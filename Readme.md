@@ -69,6 +69,3 @@ $ yarn start
 [MIT - LICENSE](LICENSE.md)
 
 ---
-
-<p align="center">Feito com  💜 por Bernardo Stogmuller</p>
-<p align="center">NLW 3 🚀</p>
